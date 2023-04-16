@@ -115,7 +115,6 @@ function gamePlay() {
 
 function start() {
 
-   // gameArea.classList.remove("hide");
     startScreen.classList.add("hide");
     gameArea.innerHTML = "";
 
